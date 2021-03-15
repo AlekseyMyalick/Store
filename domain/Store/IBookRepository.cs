@@ -8,4 +8,4 @@ namespace Store
     {
         Book[] GetAllByTitle(string titlePart);
     }
-}
+} 
